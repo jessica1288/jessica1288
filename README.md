@@ -5,7 +5,7 @@
 - <b>JavaScript</b>
   - [Expense Tracker](https://github.com/Jessica1288/ExpenseTracker)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Java]()
+  - [Praciting DS & Algos in Java](https://github.com/Jessica1288/AlgoExpert)
 
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
