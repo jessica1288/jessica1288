@@ -2,10 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>JavaScript</b>
-  - [Expense Tracker](https://github.com/Jessica1288/ExpenseTracker)
+
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Java](https://github.com/Jessica1288/AlgoExpert)
+
+- <b>JavaScript</b>
+  - [Expense Tracker](https://github.com/Jessica1288/ExpenseTracker)
 
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
