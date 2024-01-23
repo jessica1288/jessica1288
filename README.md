@@ -12,7 +12,7 @@
 - <b>Unity</b>
   - [RPG Game](https://github.com/Jessica1288/RPGGame)
 
-- <b>Java Spring</b>
+- <b>Java</b>
   - [Praciting JavaSpring - API](https://github.com/Jessica1288/APIDemo-Spring)
 
 <!--
