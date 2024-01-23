@@ -8,9 +8,10 @@
 
 - <b>JavaScript</b>
   - [Expense Tracker](https://github.com/Jessica1288/ExpenseTracker)
- 
+    
 - <b>Unity</b>
- - [RPG Game](https://github.com/Jessica1288/RPGGame)
+  - [RPG Game](https://github.com/Jessica1288/RPGGame)
+    
 <!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
