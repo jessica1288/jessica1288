@@ -15,9 +15,10 @@
 - <b>Java</b>
   - [Praciting JavaSpring - API](https://github.com/Jessica1288/APIDemo-Spring)
 
-<!--
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+
+- <b>React + TypeScript + Vite</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+<!--
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
