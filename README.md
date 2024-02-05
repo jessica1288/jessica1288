@@ -19,7 +19,7 @@
 - <b>React + TypeScript + Vite</b>
   - [Tweet Clone Coding](https://github.com/Jessica1288/nwitter-reloaded)
 
-- <b>Master  : HW </b>
+- <b>Master  : Assignment </b>
   - [Artificial intelligence HW - Python : MountainCar, CartPole - Qlearing, Sarsa, Expected Saresa](https://github.com/Jessica1288/AI-HW3)
   - [Operating System HW3 - C](https://github.com/Jessica1288/OS3)
   - [Operating System HW4 - C](https://github.com/Jessica1288/OS4)
