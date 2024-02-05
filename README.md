@@ -18,6 +18,12 @@
 
 - <b>React + TypeScript + Vite</b>
   - [Tweet Clone Coding](https://github.com/Jessica1288/nwitter-reloaded)
+
+- <b>Master School - HW</b>
+  - [Artificial intelligence HW - Python : MountainCar, CartPole - Qlearing, Sarsa, Expected Saresa](https://github.com/Jessica1288/AI-HW3)
+  - [Operating System HW3 - C](https://github.com/Jessica1288/OS3)
+  - [Operating System HW4 - C](https://github.com/Jessica1288/OS4)
+
 <!--
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
