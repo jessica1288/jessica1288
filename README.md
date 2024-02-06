@@ -5,19 +5,20 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Java](https://github.com/Jessica1288/Alogrithm-Practice)
+ 
+- <b>React + TypeScript🔭🌱</b>
+  - [Tweet Clone Coding](https://github.com/Jessica1288/nwitter-reloaded)
 
 - <b>JavaScript</b>
   - [Expense Tracker](https://github.com/Jessica1288/ExpenseTracker)
     
-- <b>Unity</b>
-  - [RPG Game](https://github.com/Jessica1288/RPGGame)
-
 - <b>Java</b>
   - [Praciting JavaSpring - API](https://github.com/Jessica1288/APIDemo-Spring)
+  
+- <b>Unity💤</b>
+  - [RPG Game](https://github.com/Jessica1288/RPGGame)
 
 
-- <b>React + TypeScript + Vite</b>
-  - [Tweet Clone Coding](https://github.com/Jessica1288/nwitter-reloaded)
 
 - <b>Master  : Assignment </b>
   - [Artificial intelligence HW - Python : MountainCar, CartPole - Qlearing, Sarsa, Expected Saresa](https://github.com/Jessica1288/AI-HW3)
